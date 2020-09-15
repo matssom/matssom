@@ -1,4 +1,4 @@
-## Hi fellow coders!
+## Hi!
 
 I am a data engineer student in Oslo, Norway, with an enduring passion for creation. My mission is to blur the lines between technology and art. In the end, technology keeps us alive, while art is what we live for.
 
