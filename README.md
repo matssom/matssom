@@ -18,8 +18,4 @@ I am a data engineer student in Oslo, Norway, with an enduring passion for creat
 * Hopefully graduating and moving onto a masters degree
 * Creating something I am proud of with people I admire
 
-<<<<<<< HEAD
-**One green dot ![image](404 onerror=alert(document.domain)) a day keeps the bugs away**
-=======
-**One green dot ![image](./green.png) a day keeps the bugs away**
->>>>>>> 0a34de455ad74e9ec270e3bae9c86c02b8d47f61
+**One green dot ![image](./img/green.png) a day keeps the bugs away**
