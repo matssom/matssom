@@ -4,7 +4,7 @@ I am a data engineer student in Oslo, Norway, with an enduring passion for creat
 
 **Currentrly:**
 * Data engineer student
-* Teacher assistent in at OsloMet in the class **Inclusive web-design and development**
+* Teacher assistent at OsloMet in the class **Inclusive web-design and development**
 * Creating my own [texthosting platform](https://github.com/matssom/texthost.io) for easy blog integration on static web pages
 * Diving deep into systems design
 * Tinkering around with algorithems and datastructures in Java
