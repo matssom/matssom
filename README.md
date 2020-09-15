@@ -1,4 +1,4 @@
-## Hi!
+## Hi fellow coders!
 
 I am a data engineer student in Oslo, Norway, with an enduring passion for creation. My mission is to blur the lines between technology and art. In the end, technology keeps us alive, while art is what we live for.
 
@@ -18,4 +18,4 @@ I am a data engineer student in Oslo, Norway, with an enduring passion for creat
 * Hopefully graduating and moving onto a masters degree
 * Creating something I am proud of with people I admire
 
-**One green dot ![image](https://raw.githubusercontent.com/matssom/matssom/master/img/green.png) a day keeps the bugs away**
+**One green dot ![image](./img/green.png) a day keeps the bugs away**
