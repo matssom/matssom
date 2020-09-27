@@ -12,12 +12,6 @@ I am a data engineer student in Oslo, Norway, with an enduring passion for creat
 **Previously:**
 * Frontend developer for [Coness AS](https://coness.no/)
 
-**Future:**
-* Working as an intern for an awesome company
-* Contributing to open-source software 
-* Hopefully graduating and moving onto a masters degree
-* Creating something I am proud of with people I admire
-
 <br>
 
 **One green dot ![image](https://raw.githubusercontent.com/matssom/matssom/master/img/green.png) a day keeps the bugs away**
