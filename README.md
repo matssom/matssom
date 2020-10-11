@@ -12,5 +12,3 @@ I am a data engineer student in Oslo, Norway, with an enduring passion for creat
 **Previously:**
 * Frontend developer for [Coness AS](https://coness.no/)
 
-<br>
-
