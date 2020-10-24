@@ -1,14 +1,16 @@
-## Hi, there! :wave:
+## ! :wave:
 
-I am a data engineer student in Oslo, Norway, with an enduring passion for creation. My mission is to blur the lines between technology and art. In the end, technology keeps us alive, while art is what we live for.
+Heavy javascript developer. MERN with Strapi is my stack of choice. JAM :honey_pot: is something I want to learn.
 
 **Currentrly:**
-* Expanding my knowledge and experience of the MERN stack
 * Teacher assistent at OsloMet in the class **Inclusive web-design and development**
-* Creating my own [texthosting platform](https://github.com/matssom/texthost.io) for easy blog integration on static web pages
-* Diving deep into systems design
 * Tinkering around with algorithems and datastructures in Java
+* Diving deep into systems design
 
-**Previously:**
-* Frontend developer for [Coness AS](https://coness.no/)
-
+**Tools & Languages**
+![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
+![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
+![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png)
+![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)
+![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png)
