@@ -1,11 +1,7 @@
 name: README build
 
 on:
-  push:
-    branches:
-      - master
-  schedule:
-    - cron: '0 */6 * * *'
+  deployment:
 
 jobs:
   build:
