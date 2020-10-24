@@ -1,6 +1,6 @@
 ## Hi, there! :wave:
 
-Heavy javascript developer. MERN with Strapi is my stack of choice. JAM with Gatsby and GraphQL :honey_pot: is something I want to learn.
+Heavy javascript developer. MERN with Strapi is my stack of choice. :honey_pot: JAM with Gatsby and GraphQL is something I want to learn.
 
 **Currentrly:**
 * Teacher assistent at OsloMet in the class **Inclusive web-design and development**
