@@ -2,7 +2,7 @@
 
 Heavy javascript developer. MERN with Strapi is my stack of choice. :honey_pot: JAM with Gatsby and GraphQL is something I want to learn.
 
-**Currentrly:**
+**Currentrly**
 * Teacher assistent at OsloMet in the class **Inclusive web-design and development**
 * Tinkering around with algorithems and datastructures in Java
 * Diving deep into systems design
