@@ -6,7 +6,7 @@ Heavy javascript developer. MERN is my stack of choice. :honey_pot: JAM with Gat
 * Teacher assistent at OsloMet in the class **Inclusive web-design and development**
 * Diving deep into web-components
 * Tinkering around with algorithems and datastructures in Java
-* Learning Spring :leaves: for web
+* Learning Spring :leaves: for backend web-development with java
 
 **Tools & Languages**
 
