@@ -1,10 +1,10 @@
 ## Hi, there! :wave:
 
-Heavy javascript developer. MERN is my stack of choice. :honey_pot: JAM with Gatsby and GraphQL is something I want to learn.
+Heavy javascript developer. Svelte is my new favourite frontend framework. :honey_pot: JAM with Gatsby and GraphQL is something I want to learn.
 
 **Currently**
 * Teacher assistent at OsloMet in the class **Inclusive web-design and development**
-* Diving deep into web-components
+* Diving deep into Svelte
 * Tinkering around with algorithems and datastructures in Java
 * Learning Spring :leaves: for backend web-development with java
 
@@ -17,6 +17,7 @@ Heavy javascript developer. MERN is my stack of choice. :honey_pot: JAM with Gat
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/svelte/svelte.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][website]
