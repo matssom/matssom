@@ -4,7 +4,7 @@ Heavy javascript developer. Svelte is my new favourite frontend framework. :hone
 
 **Currently**
 * Teacher assistent at OsloMet in the class **Inclusive web-design and development**
-* Diving deep into Svelte
+* Diving deep into Svelte and Typescript
 * Tinkering around with algorithems and datastructures in Java
 * Learning Spring :leaves: for backend web-development with java
 
