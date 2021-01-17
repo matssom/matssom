@@ -5,7 +5,7 @@ Welcome to my github account.
 **Currently**
 * :mortar_board: Teacher assistent at [Oslo Metropolitan University](https://oslomet.no) in the class [Web programming](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1700/2020/H%C3%98ST)
 * :leaves: Learning Spring for backend web-development with java
-* :ocean: Diving deep into Svelte to create awesome visual web experiences
+* :ocean: Diving deep into [Svelte](https://svelte.dev) to create awesome visual web experiences
 
 **Tools & Languages**
 
