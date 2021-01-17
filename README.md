@@ -1,11 +1,11 @@
 ## Hi, there! :wave:
 
-Heavy javascript developer. Svelte is my new favourite frontend framework. :honey_pot: JAM with Gatsby and GraphQL is something I want to learn.
+Welcome to my github account. 
 
 **Currently**
-* Teacher assistent at OsloMet in the class **Webprogramming**
-* Diving deep into Svelte and Typescript
-* Learning Spring :leaves: for backend web-development with java
+* :mortar_board: Teacher assistent at [Oslo Metropolitan University](https://oslomet.no) in the class [Web programming](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1700/2020/H%C3%98ST)
+* :leaves: Learning Spring for backend web-development with java
+* :ocean: Diving deep into Svelte to create awesome visual web experiences
 
 **Tools & Languages**
 
