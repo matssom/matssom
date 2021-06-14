@@ -5,7 +5,7 @@ Welcome to my github account.
 **Currently**
 * :chart_with_upwards_trend: Solving algorithm problems on [algoexpert](https://algoexpert.io)
 * :mortar_board: Teacher assistent at [Oslo Metropolitan University](https://oslomet.no) in the class [Web programming](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1700/2020/H%C3%98ST)
-* :ocean: Diving deep into [Svelte](https://svelte.dev) to create awesome visual web experiences
+* :ocean: Exploring [Svelte Kit](https://svelte.dev) to create fast, universal web experiences
 
 **Tools & Languages**
 
