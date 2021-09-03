@@ -3,8 +3,9 @@
 Welcome to my github account. 
 
 **Currently**
+* 👨‍💻 Software Developer at IT Minds. Working on exciting projects with a wide variety of clients
 * :chart_with_upwards_trend: Solving algorithm problems on [algoexpert](https://algoexpert.io)
-* :mortar_board: Teacher assistent at [Oslo Metropolitan University](https://oslomet.no) in the class [Web programming](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1700/2020/H%C3%98ST)
+* :mortar_board: Teacher assistent at [Oslo Metropolitan University](https://oslomet.no) in the class [Universal Webdesign & Development](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1200/2021)
 * :ocean: Exploring [Svelte Kit](https://kit.svelte.dev) to create fast, universal web experiences
 
 **Tools & Languages**
