@@ -3,7 +3,7 @@
 Welcome to my github account. 
 
 **Currently**
-* 👨‍💻 Software Developer at IT Minds. Working on exciting projects with a wide variety of clients
+* 👨‍💻 Software Developer at [IT Minds](https://it-minds.dk/forside). Working on exciting projects with a wide variety of clients
 * :chart_with_upwards_trend: Solving algorithm problems on [algoexpert](https://algoexpert.io)
 * :mortar_board: Teacher assistent at [Oslo Metropolitan University](https://oslomet.no) in the class [Universal Webdesign & Development](https://student.oslomet.no/studier/-/studieinfo/emne/DATA1200/2021)
 * :ocean: Exploring [Svelte Kit](https://kit.svelte.dev) to create fast, universal web experiences
